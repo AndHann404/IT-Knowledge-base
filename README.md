@@ -60,12 +60,17 @@ Application Troubleshooting Guide:
 
 ---
 # FAQs
-This section contains answers to common frequently asked questions (FAQs). 
+# What are FAQs?
+
+FAQs (Frequently Asked Questions) are a collection of common questions and answers designed to help users quickly find information and resolve basic issues
+  
+- This section provides examples of what FAQs are in a knowledge base.
 
 How to Reset Account Password:
 
 <img width="649" height="453" alt="FAQ- Account PW Reset" src="https://github.com/user-attachments/assets/142346cf-5738-45e3-9c51-b81f76bfef34" />
 
+---
 
 How to connect to the company VPN:
 
@@ -73,4 +78,10 @@ How to connect to the company VPN:
 
 <img width="648" height="430" alt="FAQ - Company VPN  - step 1" src="https://github.com/user-attachments/assets/ccecda98-559b-4d7d-a0c2-064752cb03e2" />
 
+---
+# SOPs
+# What are SOPs?
 
+Standard Operating Procedures (SOPs) are documented set of step-by-step instructions used to perform routine tasks and processes consistently. They help improve efficiency, maintain quality standards, and ensure compliance with company policies and industry requirements.
+
+- This section provides examples of what SOPs are in a knowledge base.

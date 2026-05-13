@@ -102,7 +102,7 @@ Onboarding Process:
 <img width="640" height="392" alt="SOP - onboarding 2" src="https://github.com/user-attachments/assets/438eaa9f-5395-40bc-8ad1-c007e41b9576" />
 
 ---
-Conclusion
+## Conclusion
 
 This project demonstrates the creation and management of an IT Knowledge Base designed to support common help desk and IT support functions. It includes FAQs, SOPs, troubleshooting guides, and security procedures to help users resolve common technical issues efficiently. Completing this project provided hands-on experience in organizing technical documentation, improving knowledge management, and creating user-friendly support resources within a simulated IT environment.
 

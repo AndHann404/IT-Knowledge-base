@@ -85,3 +85,24 @@ How to connect to the company VPN:
 Standard Operating Procedures (SOPs) are documented set of step-by-step instructions used to perform routine tasks and processes consistently. They help improve efficiency, maintain quality standards, and ensure compliance with company policies and industry requirements.
 
 - This section provides examples of what SOPs are in a knowledge base.
+
+What to do when receiving a Phishing Email:
+  
+<img width="663" height="225" alt="SOP Phishing" src="https://github.com/user-attachments/assets/f9c23511-6c56-491a-9771-3fdb9c38fc31" />
+
+<img width="633" height="318" alt="SOP Phishing step 1" src="https://github.com/user-attachments/assets/1c053a76-3eb5-43aa-987d-dc9dbae2dbda" />
+
+<img width="640" height="412" alt="SOP Phishing step 2   3" src="https://github.com/user-attachments/assets/28193f94-bbdf-4661-a7e5-0677a0a21840" />
+
+---
+Onboarding Process:
+
+<img width="655" height="405" alt="SOP - Onboarding 1" src="https://github.com/user-attachments/assets/2f76816e-2205-40e5-8369-49da45c34956" />
+
+<img width="640" height="392" alt="SOP - onboarding 2" src="https://github.com/user-attachments/assets/438eaa9f-5395-40bc-8ad1-c007e41b9576" />
+
+---
+Conclusion
+
+This project demonstrates the creation and management of an IT Knowledge Base designed to support common help desk and IT support functions. It includes FAQs, SOPs, troubleshooting guides, and security procedures to help users resolve common technical issues efficiently. Completing this project provided hands-on experience in organizing technical documentation, improving knowledge management, and creating user-friendly support resources within a simulated IT environment.
+

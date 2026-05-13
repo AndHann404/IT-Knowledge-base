@@ -13,7 +13,7 @@ This project focuses on hands-on practice in creating an IT knowledge base that 
 ---
 ## Objective 
 
-This project is designed to provide hands-on experience in creating and organizing an IT knowledge base containing FAQs, troubleshooting guides, and technical support documentation used in real-world IT environments.
+This project is designed to provide hands-on experience in creating and organizing an IT knowledge base containing FAQs, troubleshooting guides, SOPs and technical support documentation used in real-world IT environments.
 
 ---
 ## What is a Knowledge Base?
@@ -60,4 +60,4 @@ Application Troubleshooting Guide:
 
 ---
 # FAQS
-
+This section contains answers to common frequently asked questions (FAQs). 

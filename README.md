@@ -59,5 +59,18 @@ Application Troubleshooting Guide:
 <img width="639" height="496" alt="Application Troubleshooting step 2" src="https://github.com/user-attachments/assets/396973f2-83a4-4f4f-af24-05fe83fcfbae" />
 
 ---
-# FAQS
+# FAQs
 This section contains answers to common frequently asked questions (FAQs). 
+
+How to Reset Account Password:
+
+<img width="649" height="453" alt="FAQ- Account PW Reset" src="https://github.com/user-attachments/assets/142346cf-5738-45e3-9c51-b81f76bfef34" />
+
+
+How to connect to the company VPN:
+
+<img width="661" height="253" alt="FAQ - Company VPN " src="https://github.com/user-attachments/assets/4feebaa8-0dd2-4a9a-affa-dbc2677aa8e5" />
+
+<img width="648" height="430" alt="FAQ - Company VPN  - step 1" src="https://github.com/user-attachments/assets/ccecda98-559b-4d7d-a0c2-064752cb03e2" />
+
+

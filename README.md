@@ -101,6 +101,18 @@ Onboarding Process:
 
 <img width="640" height="392" alt="SOP - onboarding 2" src="https://github.com/user-attachments/assets/438eaa9f-5395-40bc-8ad1-c007e41b9576" />
 
+<img width="674" height="168" alt="SOP - Onboarding 3" src="https://github.com/user-attachments/assets/f51386e2-39ba-4a0c-a9b7-0492f199e7ce" />
+
+
+---
+Offboarding Process:
+
+<img width="691" height="222" alt="SOP Offboarding" src="https://github.com/user-attachments/assets/5c18c56f-7ef9-47db-9ed4-b8153438267c" />
+<img width="655" height="413" alt="SOP offboarding 2" src="https://github.com/user-attachments/assets/a42d8a97-5375-41fb-9c6d-b4ac862b1ac1" />
+<img width="636" height="278" alt="SOP Offboarding 3" src="https://github.com/user-attachments/assets/bb9646ca-8f9d-417e-9a43-7c16d97efa28" />
+
+
+
 ---
 ## Conclusion
 
